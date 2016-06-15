@@ -1,0 +1,13 @@
+{
+	"require": {
+		"qaamgo/onlineconvert-api-sdk": "dev-dev-v2"
+	},
+	"repositories": [
+	  {
+		"url":"https://github.com/andrescevp/onlineconvert-api-sdk-php.git",
+		"type": "git"
+	  }
+	]
+
+
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "qaamgo/onlineconvert-api-sdk",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/onlineconvert/onlineconvert-api-sdk-php.git",
+            "reference": "3775445b17b8281691eef6056ccc6404ce424973"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/onlineconvert/onlineconvert-api-sdk-php/zipball/3775445b17b8281691eef6056ccc6404ce424973",
+            "reference": "3775445b17b8281691eef6056ccc6404ce424973",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "ext-mbstring": "*",
+            "php": ">=5.3.3"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.0",
+            "satooshi/php-coveralls": "~0.6.1",
+            "squizlabs/php_codesniffer": "~2.0"
+        },
+        "time": "2015-10-05 08:30:59",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "SwaggerClient\\": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache v2"
+        ],
+        "authors": [
+            {
+                "name": "QaamGo",
+                "homepage": "https://github.com/onlineconvert/onlineconvert-api-sdk-php/graphs/contributors"
+            }
+        ],
+        "description": "Sdk for using the Online Convert Api version 2",
+        "homepage": "https://github.com/onlineconvert/onlineconvert-api-sdk-php",
+        "keywords": [
+            "api",
+            "php",
+            "qaamgo",
+            "rest",
+            "sdk",
+            "swagger"
+        ]
+    }
+]
